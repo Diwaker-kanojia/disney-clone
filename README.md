@@ -5,7 +5,7 @@ This project replicates the look and feel of **Disney+** ✨ with dynamic movie 
 
 ## 🔗 Live Preview
 
-🌐 **Live Demo:** https://disney-brown.vercel.app/
+🌐 **Live Demo:** https://disney-clone-blond-sigma.vercel.app/
 
 ## 🎨 Screenshots
 
@@ -69,8 +69,8 @@ This project replicates the look and feel of **Disney+** ✨ with dynamic movie 
 ## 📂 Project Setup
 
 ```bash
-git clone https://github.com/your-username/disney-plus-clone.git
-cd disney-plus-clone
+git clone https://github.com/your-username/disney-clone.git
+cd disney-clone
 npm install
 npm run dev
 ```
